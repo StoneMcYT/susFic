@@ -37,8 +37,10 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 ### YEAR 0
 
 - Jack x Sunset = @Tzar
-- Snek (me) - spawned randomly - parents unknown
 - Jesse spawns
+
+### Year 23
+- Snek (me) - spawned randomly (23 at this time)- parents unknown
 
 ### YEAR 25
 
