@@ -24,6 +24,9 @@ In this fic, all years have 12 months with each month being 30 days long. The re
 
 Also, a note to those who use 'a moon' as measurement - this refers to 30 days (1 month).
 
+
+*Means to be fixed by adding parents or extra timeline details to fix
+
 ### Year Minus 30
 
 - Crystal Empire founded
@@ -39,10 +42,13 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 - Jack x Sunset = @Tzar
 
 ## Year 20
-- Jesse spawns
+- Jesse spawns*
 - 
 ### Year 23
 - Snek (me) - spawned randomly (23 at this time)- parents unknown
+
+### Year 24
+- Jacko appears*
 
 ### YEAR 25
 
@@ -54,7 +60,7 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 - Twi kidnapped by Discord (for 5 years and put in some frozen state)
 - Snek x Tzar marriage
 - Vogia Entered the world (unknown parents)
-- Dyno appears
+- Dyno appears*
 - Calliope_tealjoy X ??? = lokloy
 
 ### Middle of year 26
