@@ -100,3 +100,4 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 - Enderson1320 adopted (Tzar X Snek)
 - Vogia revived??
 - Pedrito has a royal guard led by Merlin (Snek just vibes along)
+- EE and Jacko start flirting/semi dating
