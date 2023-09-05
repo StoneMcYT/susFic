@@ -7,5 +7,12 @@
 "remoteUser": "node",
 "features": {
 	"ghcr.io/devcontainers/features/node:1": {}
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"yzhang.markdown-all-in-one"
+		]
+	}
 }
 }
