@@ -2,15 +2,11 @@
 
 I am so going to regret putting this on my account.
 
-A public webpage of lore and storyline from a brony discord server. This page will handle all webpage deployments and story safekeeping.
+A public webpage of lore and storyline from a brony Discord server. This page will handle all webpage deployments and story safekeeping.
 
-
-**If you do not have github put are part of of the r/place bronies discord and want to submit stories. DM Fluttersnek for hlelp**
-
+**If you do not have GitHub but are part of the r/place bronies Discord and want to submit stories, DM Fluttersnek for help.**
 
 **License**: All code files belong to their respective contributors and are free to be repurposed, reused, etc., as long as you comply with the original code's license and are given to the public 'as is' without warranty of sorts. However, all stories and content (images, videos, gifs) belong to their respective owners under copyright unless specified or cited.
-
-
 
 ## The Timeline
 
@@ -20,7 +16,13 @@ For writing your chapters, they should usually be one-shots in the same universe
 
 ### Location/Setting of the ENTIRE fic
 
-The fic is set in an Equestria-styled Earth. So this means the geography, city names, states are the same. However, it is under one Equestrian government instead.
+The fic is set in an Equestria-styled Earth. So this means the geography, city names, states are the same as in real life. However, it is under one Equestrian government instead.
+
+### Keeping Track Of Dates/Months
+
+In this fic, all years have 12 months with each month being 30 days long. The reason for this is to prevent pain with leap years and awkward monthings.
+
+Also, a note to those who use 'a moon' as measurement - this refers to 30 days (1 month).
 
 ### Year Minus 30
 
