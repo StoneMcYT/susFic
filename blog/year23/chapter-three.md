@@ -1,11 +1,6 @@
 ---
 slug: chapter-three-meeting-the-princess
 title: "Year 0 Chapter Three: Meeting the Princess"
-authors:
-  name: Snek
-  title: Head Of The Problep Council
-  url: https://github.com/StoneMcYT
-  image_url: https://media.tenor.com/Y-nW5Z-k8W8AAAAC/starlight-glimmer-blep.gif
 tags: [year23, snek, twlight, derpy, celestia, royal-guards, nsfw, pov, capitol, castle]
 date: 2023-09-06
 ---
