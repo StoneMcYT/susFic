@@ -74,7 +74,7 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 - Drywall single (December/Late December)
 - 
 ### YEAR 31
-- Jack becomes earth pony again
+- Jack becomes unicorn again
 - Twi gets thrown to Spain in a ditch
 - Drywall meets her, cares for her, etc., romantic
 - Drywall x Twi get married, and Hazy Skies becomes part of the family (Note: Hazy skies is Drywall x Unknown's child in year 27)
