@@ -16,11 +16,11 @@ For writing your chapters, they should usually be one-shots in the same universe
 
 ### Location/Setting of the ENTIRE fic
 
-The fic is set in an Equestria-styled Earth. So this means the geography, city names, states are the same. However, it is under one Equestrian government instead.
+The fic is set in an Equestria-styled Earth. So this means the geography, city names, states are the same as in real life. However, it is under one Equestrian government instead.
 
 ### Keeping Track Of Dates/Months
 
-In this fic, all years have 12 months with each month being 31 days long. The reason for this is to prevent pain with leap years and awkward monthings.
+In this fic, all years have 12 months with each month being 30 days long. The reason for this is to prevent pain with leap years and awkward monthings.
 
 Also, a note to those who use 'a moon' as measurement - this refers to 30 days (1 month).
 
