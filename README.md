@@ -37,8 +37,10 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 ### YEAR 0
 
 - Jack x Sunset = @Tzar
-- Jesse spawns
 
+## Year 20
+- Jesse spawns
+- 
 ### Year 23
 - Snek (me) - spawned randomly (23 at this time)- parents unknown
 
@@ -82,6 +84,7 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 ### Year 44
 
 - Dyno and lokloy dating
+- February Year 44 - Jesse nd Luna start dating
 
 ### Year 45
 
