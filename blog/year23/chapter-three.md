@@ -73,3 +73,9 @@ Like a thousand gunshot wounds my whole stallionhood shot up with pain and I cur
 Image belongs to their original authors. Source: https://derpibooru.org/images/435695
 
 The world swims around me with neddles of pain everywhere. Twilight tackles flash and starts screaming her head off whilst trying to keep her down. Merlin runs into the room to help twilight hold him down. I feel blood drip from my wings as white shirted ponies which I can only assume are the medics run over to me. They try to stop the bleeding but I pass out.
+
+:::note
+
+This chater is to be countied but I am waiting for a poll to finish then we decide what to do with flash
+
+:::
