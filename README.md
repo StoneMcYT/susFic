@@ -68,15 +68,13 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 - Vogia somehow dies - a vogialoy appears
 
 ### YEAR 27
-
+- Jack Becomes Alicorn (Febuary)
 - Drywall X Unknown --> Hazy Skies
-
-### Months later
-
-- Drywall single for some reason
-
+- Jack (alicorn) × sunset = riptide (OC) (November)
+- Drywall single (December/Late December)
+- 
 ### YEAR 31
-
+- Jack becomes earth pony again
 - Twi gets thrown to Spain in a ditch
 - Drywall meets her, cares for her, etc., romantic
 - Drywall x Twi get married, and Hazy Skies becomes part of the family (Note: Hazy skies is Drywall x Unknown's child in year 27)
