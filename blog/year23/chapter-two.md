@@ -1,17 +1,17 @@
 ---
-slug: chapter-two-meeting-the-princess
-title: "Year 0 Chapter Two: Meeting the Princess"
+slug: chapter-two-castle
+title: "Year 0 Chapter Two: The Castle"
 authors:
   name: Snek
   title: Head Of The Problep Council
   url: https://github.com/StoneMcYT
   image_url: https://media.tenor.com/Y-nW5Z-k8W8AAAAC/starlight-glimmer-blep.gif
-tags: [year0, snek, twlight, luna, celestia, royal-guards, merlin, sfw, pov, capitol, castle]
+tags: [year23, snek, twlight, luna, derpy, celestia, royal-guards, merlin, sfw, pov, capitol, castle]
 date: 2023-08-06
 ---
 :::info
 
-Date: 2nd Januay Year 0
+Date: 2nd Januay Year 23
 
 :::
 
@@ -44,5 +44,5 @@ The guards rush up towards the bed with some magical handful thingies in hand, b
 
 The orange balloon huffed and glared at me before instructing the guards to escort me up to the throne room leaving Twilight behind. I was escorted upwards throw the twisting halls with beautiful red carpets past portraits of what I could only assume are the princesses. I enter this grand room which has giant glass windows that overlooked the buildings bellow. 4 Thrones sat in the room with four guards on each side. A second later all four thrones where filled. Twilight on the left, followed by some white, green hair one on her right, a dark blue princess with a nice flowing mane and a little grey Pegasus on the right with a muffin.
 
-The white coloured one opened her mouth but no words game out it was like she was speaking in my head "Hello Snek, welcome to Equestria on my left sites Princess Luna and on her left sits Derpy Princess of Greece”.
+The white coloured one opened her mouth but no words game out it was like she was speaking in my head "Hello Snek, welcome to Equestria I'm Celestia on my left sites Princess Luna and on her left sits Derpy Princess of Greece”.
 
