@@ -1,14 +1,13 @@
-## The Timeline
-
+# The Timeline
 The timeline should be as follows:
 
 For writing your chapters, they should usually be one-shots in the same universe. You should not skip around. E.g., don't have Pedrito born, then the parents have intercourse. Do not skip forward in the sense of the timeline. And try to write in a sequence of events.
 
-### Location/Setting of the ENTIRE fic
+## Location/Setting of the ENTIRE fic
 
 The fic is set in an Equestria-styled Earth. So this means the geography, city names, states are the same as in real life. However, it is under one Equestrian government instead.
 
-### Keeping Track Of Dates/Months
+## Keeping Track Of Dates/Months
 
 In this fic, all years have 12 months with each month being 30 days long. The reason for this is to prevent pain with leap years and awkward monthings.
 
@@ -16,6 +15,9 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 
 
 *Means to be fixed by adding parents or extra timeline details to fix
+
+## Editing:
+Only snek is allowed to edit/update the timeline
 
 ### Year Minus 30
 
@@ -69,7 +71,7 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 - Drywall meets her, cares for her, etc., romantic
 - Drywall x Twi get married, and Hazy Skies becomes part of the family (Note: Hazy skies is Drywall x Unknown's child in year 27)
 - And have @Pedrito (Drywall x Twi)
-- Nonhappy x @anoax (?) - not sure how this exists
+- Nonhappy x @anoax (?) - "It's compicated" - Non-happy
 
 ### Year 32
 
