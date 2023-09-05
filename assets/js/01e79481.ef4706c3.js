@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[5406],{5961:s=>{s.exports=JSON.parse('{"label":"nsfw","permalink":"/susFic/blog/tags/nsfw","allTagsPath":"/susFic/blog/tags","count":1}')}}]);
