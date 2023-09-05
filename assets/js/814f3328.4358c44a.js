@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Year 0 Chapter Two: Meeting the Princess","permalink":"/susFic/blog/chapter-two-meeting-the-princess"},{"title":"Year 0 Chapter One: New Beginnings","permalink":"/susFic/blog/chapter-one-new-beginnings"}]}')}}]);
