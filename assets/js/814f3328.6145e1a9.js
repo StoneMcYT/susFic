@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/susFic/blog/welcome"},{"title":"Year 0 Chapter One: New Beginnings","permalink":"/susFic/blog/chapter-one-new-beginnings"}]}')}}]);

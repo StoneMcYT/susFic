@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>susFic Blog</title>
+        <link>https://stonemcyt.github.io/susFic/blog</link>
+        <description>susFic Blog</description>
+        <lastBuildDate>Sat, 05 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://stonemcyt.github.io/susFic/blog/welcome</link>
+            <guid>https://stonemcyt.github.io/susFic/blog/welcome</guid>
+            <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just a welcome page. You can stay here to read the fics or hop to docs to learn how to add fics.]]></description>
+            <content:encoded><![CDATA[<p>Just a welcome page. You can stay here to read the fics or hop to docs to learn how to add fics.</p>]]></content:encoded>
+            <category>nonfic</category>
+        </item>
+        <item>
+            <title><![CDATA[Year 0 Chapter One: New Beginnings]]></title>
+            <link>https://stonemcyt.github.io/susFic/blog/chapter-one-new-beginnings</link>
+            <guid>https://stonemcyt.github.io/susFic/blog/chapter-one-new-beginnings</guid>
+            <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is an early chapter one draft so we can publish the webpage early and get everyone on the same system. This chapter will NOT be extended in terms of content but grammer/spelling/style will be revamped.]]></description>
+            <content:encoded><![CDATA[<div class="theme-admonition theme-admonition-info alert alert--info admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</div><div class="admonitionContent_S0QG"><p>This is an early chapter one draft so we can publish the webpage early and get everyone on the same system. This chapter will NOT be extended in terms of content but grammer/spelling/style will be revamped.</p></div></div><p>It was one dark morning where I woke up in some unkown cave with a bright shining glowing orb in the center. I rubbed my eyes and walked straight into the glowing light unsure of where it lead to or even why I walked towards it. Stepping through that portal I became a pony not just any random pony, a bright blue technicolor pony standing in the middle of a busy street, I looked at myself looked behind, underneeth and behind again. Damn I've got wings now.</p><p>When I finally stop glazing and trying to flap my wings I was amazed by my suroundings. So many beautiful farm houses with other ponies walking around it was like an explosin of all pony sensnes. Then I realised, oh buck. I'm small  I'm a foal. A young young young foal. I stood up and galoped on the cobblestone streets to the outskirts of the city. I needed someplace to think as well as rest to figure out what the hay this world is and what am I doing here.</p><p>I rode off into the distance, the scenery started changing from houses to farms and finally to large open planes with flowing hills. I found a patch of grass under a beautiful tree and sat down. Moments later a squad of what looks like 4 peagsus ponies in golden armor entered the horizon, I paniked and fled running as fast as I can but they chassed after me.</p>]]></content:encoded>
+            <category>year0</category>
+            <category>Snek</category>
+            <category>SFW</category>
+            <category>Pov</category>
+            <category>USA</category>
+        </item>
+    </channel>
+</rss>
