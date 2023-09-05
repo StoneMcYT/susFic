@@ -1,12 +1,12 @@
 ---
 slug: chapter-two-castle
-title: "Year 0 Chapter Two: The Castle"
+title: "Year 23 Chapter Two: The Castle"
 authors:
   name: Snek
   title: Head Of The Problep Council
   url: https://github.com/StoneMcYT
   image_url: https://media.tenor.com/Y-nW5Z-k8W8AAAAC/starlight-glimmer-blep.gif
-tags: [year23, snek, twlight, luna, derpy, celestia, royal-guards, merlin, sfw, pov, capitol, castle]
+tags: [year23, snek, twilight, luna, derpy, celestia, royal-guards, merlin, sfw, pov, capitol, castle]
 date: 2023-08-06
 ---
 :::info

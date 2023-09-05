@@ -1,6 +1,6 @@
 ---
 slug: chapter-one-new-beginnings
-title: "Year 0 Chapter One: New Beginnings"
+title: "Year 23 Chapter One: New Beginnings"
 authors:
   name: Snek
   title: Head Of The Problep Council

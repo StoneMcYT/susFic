@@ -1,7 +1,7 @@
 ---
 slug: chapter-three-meeting-the-princess
 title: "Year 0 Chapter Three: Meeting the Princess"
-tags: [year23, snek, twlight, derpy, celestia, royal-guards, nsfw, pov, capitol, castle]
+tags: [year23, snek, twilight, derpy, celestia, royal-guards, nsfw, pov, capitol, castle]
 date: 2023-09-06
 ---
 
@@ -12,7 +12,7 @@ date: 2023-09-06
 :::danger
 
 This chapter is labeled as NSFW and is not safe for reading for minors.
-Contais: Slightly suggestive secitons and sexual tension. No full on clop though
+Contains: Slightly suggestive secitons and sexual tension. No full on clop though
 :::
 
 

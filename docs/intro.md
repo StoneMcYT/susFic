@@ -14,14 +14,14 @@ The file name should be chapter-X.md X being the chapter number eg one, two, fou
 How to add fics?​
 
 ## First fork the webpage:
-(![Alt text]static/guideImages/howToFork.png "a title")
+![Alt text](guideImages/howToFork.png "a title")
 
 Ensure that the owner is your user. Alt text
-(![Alt text]static/guideImages/howToFork1.png "a title")
+![Alt text](guideImages/howToFork1.png "a title" )
 
 Be Sure to Check this first:​
 
-(![Alt text]https://cdn.discordapp.com/attachments/1148404965358977044/1148443358277140551/image.png "a title")
+![Alt text] (https://cdn.discordapp.com/attachments/1148404965358977044/1148443358277140551/image.png "a title")
 
 If on your fork it says that it is "behind by X commits" click the sync fork.
 
@@ -53,18 +53,7 @@ Examples would include
 [year50, Jacko, EE, NSFW, Mix-Pov, USA, EE-parents-house, country-side, fetish, gag]
 ```
 Do not tag like this: [year50, Jacko, EE, NSFW, Mix-Pov, USA, EE-PRAENTS-House, countrySide] if its multiple words use a dash
-Fic contains NSFW?​
 
-The fic MUST have the NSFW tag and a warning label.
-
-Just copy paste this at the top of your fic (after the --- of the template)
-```
-:::danger
-
-This chapter is labeled as NSFW and is not safe for reading for minors.
-
-:::
-```
 Want to add images?​
 
 use this format if the image does not belong to you
@@ -73,11 +62,11 @@ use this format if the image does not belong to you
 Image belongs to their original authors. Source: <URL/WEBPAGE>
 ```
 Or use this format if the image belongs to you
-
+```
 ![Alt text](IMAGE URL "a title")
 ```
-How to get it published?​
-```
+## How to get it published?​
+
 After you hit commit changes you will need to make a pull request. Hit the code button at the top left to reuturn to your forks homepage. You will see a message that says something like This branch is 1 commit ahead of XXXXX and on the right of that it says contribute. Hit that button then hit open pull request
 
 ![a title](https://cdn.discordapp.com/attachments/1148404965358977044/1148443358277140551/image.png)
