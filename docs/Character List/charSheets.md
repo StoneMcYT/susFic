@@ -21,6 +21,7 @@ title: "NAME | SPECIES gender"
 
 **Parents** *: 
 
+**Relationships** :
 ---
 
 **Special Trait:**
@@ -42,3 +43,5 @@ You are allowed to add sections to this if you feel like you need catagories/sub
 
 
 `![CHAR NAME](LINKHERE)` should look like `![snek](https://cdn.discordapp.com/attachments/1086048264295555116/1148625422125379594/image.png)`
+
+Note the relationships bracket is optional but it can contain exes/spouses/etc BUT if you choose to write this in you must update this manually by yourself whnever you remarry, have kids etc.

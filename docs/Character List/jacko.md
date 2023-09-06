@@ -2,21 +2,23 @@
 title: "Jacko | Kirin Male"
 ---
 
-**Discord Nickname:** :  prince jacko
+**Discord Nickname:**:  prince jacko
 
-**Name** : Jacko
+**Name**: Jacko
 
-**Year Spawned in** : Year 24
+**Year Spawned in**: Year 24
 
-**Gender** : Male
+**Gender**: Male
 
-**Race** : Kirin
+**Race**: Kirin
 
-**Parents** : Unkown at writing 
+**Parents**: 2 Kirin parents - names unkown
 
 ---
 
 **Special Trait:** Loyal and kind, Loves to bake cakes
+
+**Notes:** Prince of the Kirin Kingdom located in the Fontainebleau Forest (France)
 
 
 **Appearance (Add an image URL of your ponytown OC/OC)**:
