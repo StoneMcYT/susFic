@@ -1,5 +1,6 @@
 ---
 title: "Character Sheet Format"
+sidebar_position: 1
 ---
 
 ```md
