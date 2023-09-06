@@ -35,7 +35,7 @@ Only snek is allowed to edit/update the timeline
 
 
 ## Year 15.
-- dynoscord appears (SOMEONE FIXED IT)
+- Mineral Martyr spawns
 
 ## Year 20
 - Jesse spawns*
@@ -56,7 +56,6 @@ Only snek is allowed to edit/update the timeline
 - Twi kidnapped by Discord (for 5 years and put in some frozen state)
 - Snek x Tzar marriage
 - Vogia Entered the world (unknown parents)
-- Dyno appears*
 - Calliope_tealjoy X ??? = lokloy
 
 ### Middle of year 26
@@ -83,12 +82,12 @@ Only snek is allowed to edit/update the timeline
 
 ### Year 44
 
-- Dyno and lokloy dating
+- Mineral Martyr and lokloy dating
 - February Year 44 - Jesse nd Luna start dating
 
 ### Year 45
 
-- Dyno x Lokloy married
+- Mineral Martyr x Lokloy married
 - Vogialoy x Penelope  married
 - Jesse X Luna married
 - Enderson1320 adopted (Tzar X Snek)
