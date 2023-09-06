@@ -20,5 +20,5 @@ title: "Pedrito | Alicorn, Male"
 Married to Snek in current year, nuetral possibly antagonist
 
 *Appearance*:
-![Pedrito](/susFic/img/pedrito.png)
+![Pedrito](../../static/img/pedrito.png)
 
