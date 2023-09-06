@@ -70,7 +70,10 @@ Only snek is allowed to edit/update the timeline
 - Drywall X Unknown --> Hazy Skies
 - Jack (alicorn) × sunset = riptide (OC) (November)
 - Drywall single (December/Late December)
-- 
+  
+### Year 30.
+- Penelope joins the guards
+
 ### YEAR 31
 - Jack becomes unicorn again
 - Twi gets thrown to Spain in a ditch
