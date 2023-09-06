@@ -33,6 +33,9 @@ Only snek is allowed to edit/update the timeline
 
 - Jack x Sunset = @Tzar
 
+## Year 13 
+
+- Penelope appearence
 
 ## Year 15.
 - Mineral Martyr spawns
@@ -85,12 +88,12 @@ Only snek is allowed to edit/update the timeline
 - Vogia and Jacko start dating (Jan)
 
 ### Year 44
-
 - Mineral Martyr and lokloy dating
 - February Year 44 - Jesse nd Luna start dating
 - Vogia and Jacko breakup (Sept)
-### Year 45
+  
 
+### Year 45
 - Mineral Martyr x Lokloy married
 - Vogialoy x Penelope  married
 - Jesse X Luna married

@@ -6,7 +6,7 @@ authors:
   title: Head Of The Problep Council
   url: https://github.com/StoneMcYT
   image_url: https://media.tenor.com/Y-nW5Z-k8W8AAAAC/starlight-glimmer-blep.gif
-tags: [year23, Snek, Twilight, Luna, Derpy, Celestia, royal-guards, Penelope, SFW, POV, Capitol, Castle]
+tags: [year23, Snek, Twilight, Luna, Derpy, Celestia, royal-guards, shining-armor, SFW, POV, Capitol, Castle]
 date: 2023-08-06
 ---
 :::info
@@ -16,11 +16,11 @@ Date: 2nd January Year 23
 :::
 
 
-Dammit, I cursed to myself; my legs are screaming while the guards chased after me. Legs screaming, breath panting, hooves screaming. I overhear screams and shouts of various military orders and vaguely catch a name. Merloy? No, Penelope. That's right, Penelope, a unicorn with a beautiful white coat with grey streaks like a zebra led the chase in a tight V formation. Legs tiring, I jumped up into the air, putting a lot of trust into my wings to fly up. 
+Dammit, I cursed to myself; my legs are screaming while the guards chased after me. Legs screaming, breath panting, hooves screaming. I overhear screams and shouts of various military orders and vaguely catch a name. shorning? No, Shining. That's right, Shining, a unicorn with a beautiful white coat led the chase in a tight V formation. Legs tiring, I jumped up into the air, putting a lot of trust into my wings to fly up. 
 
 "YES, I'M FLYING!" I screamed out for the world to see.
 
-Dammit, seconds later I was tackled into the ground with Penelope holding me down, with the guards rushing over to cuff me. The hay, I have done nothing wrong. The orange one knocked me in the head, and all went dark.
+Dammit, seconds later I was tackled into the ground with Shining holding me down, with the guards rushing over to cuff me. The hay, I have done nothing wrong. The orange one knocked me in the head, and all went dark.
 
 ** Hours Later: **
 
