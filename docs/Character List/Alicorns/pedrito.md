@@ -21,4 +21,4 @@ None
 
 *Appearance*:
 
-![Pedrito](../../static/img/pedrito.png)
+![Pedrito](../../../static/img/pedrito.png)
