@@ -2,24 +2,24 @@
 title: "Jacko | Kirin Male"
 ---
 
-**Discord Nickname:** *:  prince jacko
+**Discord Nickname:** :  prince jacko
 
-**Name** *: Jacko
+**Name** : Jacko
 
-**Year Spawned in** *: Year 24
+**Year Spawned in** : Year 24
 
-**Gender** *: Male
+**Gender** : Male
 
-**Race** *: Kirin
+**Race** : Kirin
 
-**Parents** *: Unkown at writing 
+**Parents** : Unkown at writing 
 
 ---
 
 **Special Trait:** Loyal and kind, Loves to bake cakes
 
 
-*Appearance (Add an image URL of your ponytown OC/OC)*:*
+**Appearance (Add an image URL of your ponytown OC/OC)**:
 
 
 ![Jacko](https://media.discordapp.net/attachments/1148772329057423390/1148887468544892978/HsQTz8JIcGzAAAAAElFTkSuQmCC.png)
