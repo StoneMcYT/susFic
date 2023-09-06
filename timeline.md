@@ -33,6 +33,10 @@ Only snek is allowed to edit/update the timeline
 
 - Jack x Sunset = @Tzar
 
+
+## Year 15.
+- dynoscord appears (SOMEONE FIXED IT)
+
 ## Year 20
 - Jesse spawns*
 - 
