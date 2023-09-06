@@ -1,5 +1,5 @@
 ---
-title: "Fic file naming"
+title: "Fic rules/format naming"
 sidebar_position: 2
 ---
 
