@@ -1,5 +1,5 @@
 ---
-title: "Apjims | PONY female"
+title: "Apjims | Pegasus, Female"
 ---
 
 **Discord Nickname:** *:Not an AJ simp
