@@ -31,6 +31,8 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
+  plugins: [require.resolve('docusaurus-lunr-search')],
 
   presets: [
     [
@@ -113,7 +115,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    }), 
 };
 
 module.exports = config;
