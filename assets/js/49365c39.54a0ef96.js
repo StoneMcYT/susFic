@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[7093],{2407:s=>{s.exports=JSON.parse('{"label":"shining-armor","permalink":"/susFic/blog/tags/shining-armor","allTagsPath":"/susFic/blog/tags","count":1}')}}]);
