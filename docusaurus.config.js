@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://cdn.discordapp.com/attachments/1086048264295555116/1148796012043976704/image.png',
+      image: 'https://cdn.discordapp.com/attachments/1148404965358977044/1148800397021036594/image.png',
       navbar: {
         title: 'Sus Site',
         logo: {
