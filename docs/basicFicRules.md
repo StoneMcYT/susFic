@@ -1,5 +1,5 @@
 ---
-title: "How to fork/add change anything"
+title: "Fic file naming"
 sidebar_position: 2
 ---
 

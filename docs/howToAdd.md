@@ -21,6 +21,8 @@ If on your fork it says that it is "behind by X commits" click the sync fork.
 Character sheets are found in the following folder: `docs/charList`
 Chapters are found in: `blog/yearX`
 
+
+
 # Adding files
 
 Once in the folder hit add files at the top right then `Create new file` after that you will have an open text space. That is where you create your character sheet or story. 
@@ -28,6 +30,11 @@ Once in the folder hit add files at the top right then `Create new file` after t
 Once done hit `commit changes`. Don't forget to name the file at the top or it wont let you commit changes
 
 (This step can be repeated as many times as you want)
+
+
+If you want to add a Fanfic check here:  https://stonemcyt.github.io/susFic/docs/basicFicRules
+
+If you want to add a character sheet the format is here: https://stonemcyt.github.io/susFic/docs/Character%20List/charSheets
 
 
 # Adding them to the main site
