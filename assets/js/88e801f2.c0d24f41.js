@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[8189],{3138:s=>{s.exports=JSON.parse('{"label":"royal-guards","permalink":"/susFic/blog/tags/royal-guards","allTagsPath":"/susFic/blog/tags","count":2}')}}]);
