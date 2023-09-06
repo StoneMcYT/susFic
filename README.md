@@ -16,3 +16,4 @@ All code files belong to their respective contributors and are free to be repurp
 Personally, I have chosen not to include explicit clop scenes in my stories as I believe they often don't contribute significantly to the narrative's depth. However, this decision does not restrict you from incorporating such elements if you wish. Nevertheless, it's crucial to strike a balance between these explicit scenes and the wholesome aspects of the story. I want to maintain a limit of no more than three consecutive clop chapters, but only if I believe they genuinely enhance the overall storyline.
 
 
+![Alt text](https://cdn.discordapp.com/attachments/1148404965358977044/1148800833102827580/image.png "a title")
