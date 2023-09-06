@@ -17,7 +17,7 @@ title: "Pedrito | Alicorn, Male"
 **Special Trait:** Filled with alicorn magic, loves engineering
 
 **Notes:** 
-Married to Snek in current year, nuetral possibly antagonist
+None
 
 *Appearance*:
 ![Pedrito](../../static/img/pedrito.png)
