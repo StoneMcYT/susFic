@@ -30,4 +30,21 @@ In this fic, all years have 12 months with each month being 30 days long. The re
 Also, a note to those who use 'a moon' as measurement - this refers to 30 days (1 month).
 
 
-# 
+## City State Naming:
+
+USA has been been reneamed to Equastria with DC being canterlot
+
+Canda has been renamed to the Crystal Kingdom
+
+
+## Population Density
+- Auastralia/New Zeland and that area are Changling Teritory
+- The African continent is mainly populated by Zebra's
+- Kirin's are mostly populated in forest areas (most dense in South America) but they are spread out
+
+
+## Hierchy.
+
+All countries and city states besides changling lands are have their figure monarch as Celestia/Luna. 
+
+Each have their own goverments/leadership and the moanrchs just advise and handle any outer teritory threads eg extreme magic like Snek appearing out of no where
