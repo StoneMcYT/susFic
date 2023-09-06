@@ -1,6 +1,7 @@
 ---
 title: "Tzar | Earth Pony, Male"
 ---
+**Discord Nickname:** *: Tzar
 
 **Name** *: Tzar
 

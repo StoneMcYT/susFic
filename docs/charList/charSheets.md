@@ -8,6 +8,8 @@ title: "Character Sheet Format"
 title: "NAME | SPECIES gender"
 ---
 
+**Discord Nickname:** *:
+
 **Name** *: [Character's Name]
 
 **Year Spawned in** *: 
@@ -36,3 +38,6 @@ Sections marked with a `*` must be kept.z
 
 if your character is a antagonist kindly mark it under "Notes"
 You are allowed to add sections to this if you feel like you need catagories/subcatagories
+
+
+`![CHAR NAME](LINKHERE)` should look like `![snek](https://cdn.discordapp.com/attachments/1086048264295555116/1148625422125379594/image.png)`

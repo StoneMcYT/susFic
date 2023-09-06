@@ -2,6 +2,8 @@
 title: "Snek | Peagsus Male"
 ---
 
+**Discord Nickname:** *: Snek
+
 **Name** *: Snek
 
 **Year Spawned in** *: Year 23 (as a 23 year old)
