@@ -83,9 +83,9 @@ Also, a note to those who use 'a moon' as measurement - this refers to 30 days (
 ### Year 45
 
 - Dyno x Lokloy married
-- Vogialoy x Merlin married
+- Vogialoy x Penelope  married
 - Jesse X Luna married
 - Enderson1320 adopted (Tzar X Snek)
 - Vogia revived??
-- Pedrito has a royal guard led by Merlin (Snek just vibes along)
+- Pedrito has a royal guard led by Penelope  (Snek just vibes along)
 - EE and Jacko start flirting/semi dating

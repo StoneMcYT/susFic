@@ -1,5 +1,6 @@
 ---
 title: "Rules for NSFW Scenes: "
+sidebar_position: 3
 ---
 
 # What defines a NSFW fic?
