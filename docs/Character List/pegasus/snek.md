@@ -2,17 +2,17 @@
 title: "Snek | Peagsus Male"
 ---
 
-**Discord Nickname:** *: Snek
+**Discord Nickname:**: Snek
 
-**Name** *: Snek
+**Name**: Snek
 
-**Year Spawned in** *: Year 23 (as a 23 year old)
+**Year Spawned in**: Year 23 (as a 23 year old)
 
-**Gender** *: Male
+**Gender**: Male
 
-**Race** *: Pegasus
+**Race**: Pegasus
 
-**Parents** *: None
+**Parents**: None
 
 ---
 
@@ -21,6 +21,6 @@ Stupid but really smart sometimes
 
 
 
-*Appearance (Add an image URL of your ponytown OC/OC)*:*
+**Appearance (Add an image URL of your ponytown OC/OC)**:
 
 ![snek](https://cdn.discordapp.com/attachments/1086048264295555116/1148625422125379594/image.png)

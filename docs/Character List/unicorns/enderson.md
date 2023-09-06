@@ -2,11 +2,11 @@
 title: "Enderson | Unicorn, Male"
 ---
 
-**Name** *: Enderson
+**Name**: Enderson
 
-**Year Spawned in** *: 30
+**Year Spawned in**: 30
 
-**Gender** *: Male
+**Gender**: Male
 
 **Race** *: Unicorn
 
