@@ -105,6 +105,7 @@ Only snek is allowed to edit/update the timeline
 - Pedrito has a royal guard led by Penelope  (Snek just vibes along)
 - EE and Jacko start flirting/semi dating
 
+# Current year: Year 45
 
 ### Year 50
-
+(ignore this - placeholder)
