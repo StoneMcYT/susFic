@@ -2,19 +2,19 @@
 title: "Merlin | Unicorn, Female"
 ---
 
-**Discord Nickname:** *: Merlin8800
+**Discord Nickname:**: Merlin8800
 
-**Name** *: Merlin
+**Name**: Merlin
 
-**Year Spawned in** *: 17
+**Year Spawned in**: 17
 
-**Gender** *: Female
+**Gender**: Female
 
-**Race** *: Pony / Unicorn
+**Race**: Pony / Unicorn
 
-**Parents** *: Unknown
+**Parents**: Unknown
 
-**Relationships** : Vogia (Married)
+**Relationships**: Vogia (Married)
 ---
 
 **Special Trait:** Blind, Clumsy, Intelligent, Logical, Science nerd
