@@ -20,6 +20,7 @@ function HomepageHeader() {
             to="/docs/intro">
             Docusaurus Tutorial - 5min ⏱️
           </Link>
+              <iframe src="https://www.google.com/maps/d/u/3/embed?mid=19W8CTYlr5SkwJ5C6jzI0qAJKpL9MSfQ&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
         </div>
       </div>
     </header>
