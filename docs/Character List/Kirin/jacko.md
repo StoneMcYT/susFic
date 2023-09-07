@@ -14,7 +14,9 @@ title: "Jacko | Kirin Male"
 
 **Parents**: 2 Kirin parents - names unkown
 
-**Exs**: Vogia (Y43 Jan to Y44 Sept) - Reason: Didint get along well
+**Exs**:
+~~Vogia (Y43 Jan to Y44 Sept) - Reason: Didint get along well~~
+(removed by Snek's Decision)
 
 ---
 
