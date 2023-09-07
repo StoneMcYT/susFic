@@ -12,7 +12,8 @@
 	"vscode": {
 		"extensions": [
 			"yzhang.markdown-all-in-one",
-			"icrawl.discord-vscode"
+			"icrawl.discord-vscode",
+			"ms-vscode.wordcount"
 		]
 	}
 }
