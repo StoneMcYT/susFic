@@ -1,4 +1,4 @@
-![image](https://github.com/StoneMcYT/susFic/assets/67421882/d3b92b5d-afd4-4543-8122-d97971ecc8a0)---
+---
 sidebar_position: 1
 ---
 
