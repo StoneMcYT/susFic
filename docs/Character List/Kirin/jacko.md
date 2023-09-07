@@ -20,7 +20,9 @@ title: "Jacko | Kirin Male"
 
 **Special Trait:** Loyal and kind, Loves to bake cakes
 
-**Notes:** Prince of the Kirin Kingdom located in the Fontainebleau Forest (France)
+**Notes:** Prince of the Kirin Kingdom located in the Fontainebleau Forest (France) (Kirin Kingdom (3))
+
+![image](https://github.com/StoneMcYT/susFic/assets/67421882/48e28a27-c26e-476b-a1bc-42e2ced2a2e5)
 
 
 **Appearance (Add an image URL of your ponytown OC/OC)**:
