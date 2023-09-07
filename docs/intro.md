@@ -31,13 +31,27 @@ Additionally, for those using 'a moon' as a measurement, it refers to 30 days (1
 
 - USA has been renamed to Equestria with DC being Canterlot.
 - Canada has been renamed to the Crystal Kingdom.
-
-## Population Density
+- A forest in france renamed to Kirin Kingdom
+## Population Density != Goverments
+Population Density does not mean who governs which area it just states which population lives most in each area
 
 - Australia/New Zealand and that area are Changeling Territory.
 - The African continent is mainly populated by Zebras.
 - Kirin's are mostly concentrated in forest areas, with the highest density in South America, but they are spread out.
+-- Kirins are spread out to create micro colonies in major forests
 
+A WIP MAP:
+ttps://www.google.com/maps/d/u/3/edit?mid=19W8CTYlr5SkwJ5C6jzI0qAJKpL9MSfQ&usp=sharing
 ## Hierarchy
 
 All countries and city-states, besides Changeling lands, have their figure monarchs as Celestia/Luna. Each has its own government and leadership, with the monarchs serving in advisory roles and handling any external threats, such as extreme magical occurrences like Snek appearing out of nowhere.
+
+## Goverments/Lands/Sucession.
+
+Each country will have a goverment or monarcy regardless of the real world states of its country. An example would be Grece being a pariment in real life whilst in the fic Derpy is the princess of Greece.
+
+There are 2 types of royalty. One being country heads whilst one is the head head (someone get a better name for this). 
+Country heads are non alicorns but are considered royalty. Whilst, the head head are Alicorns only or blood decendents of alicorns.
+
+The current line of sucession for the head head is Luna/Celestia --> Twilight --> Pedrito.
+
