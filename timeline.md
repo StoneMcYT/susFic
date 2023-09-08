@@ -88,12 +88,12 @@ Only snek is allowed to edit/update the timeline
 
 
 ### Year 43
-- Vogia and Jacko start dating (Jan)
+- ~~Vogia and Jacko start dating (Jan)~~
 
 ### Year 44
 - Mineral Martyr and lokloy dating
 - February Year 44 - Jesse nd Luna start dating
-- Vogia and Jacko breakup (Sept)
+- ~~Vogia and Jacko breakup (Sept)~~
   
 
 ### Year 45
