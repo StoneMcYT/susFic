@@ -103,7 +103,7 @@ Only snek is allowed to edit/update the timeline
 - Enderson1320 adopted (Tzar X Snek)
 - Vogia revived??
 - Pedrito has a royal guard led by Penelope  (Snek just vibes along)
-- EE and Jacko start flirting/semi dating
+
 
 # Current year: Year 45
 
