@@ -19,3 +19,4 @@ title: "Characters which are missing sheets"
 
 # Missing Ones
 - Snowstorm (Year -1700): Takes power as leader.
+- EE
