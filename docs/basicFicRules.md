@@ -52,10 +52,18 @@ Or use this format if the image belongs to you
 ```
 
 
+# NSFW Inserts?
+If it is really important to the storry you may add inserts to a middle of the storry to refrence something frmo the NSFW Section. It should have a smooth transition
+Eg
+I opened the door
+
+*Insert: Year 10 Chapter 2 - The time in the bedroom with Vogia*
+
+Then i excited the room like a happy stallion.
+
+Inserts would be biascally checking another section for that extra chapter. Inserts should not force you to read a new section and should flow.
+
 # Want to write for another year/timespam?​
-
-
-
 ![Image](https://cdn.discordapp.com/attachments/1086048264295555116/1148442132810580058/image.png "Title")
 
 Place your cursor in the "year0" box and then press backspace.
