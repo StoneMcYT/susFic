@@ -32,8 +32,28 @@ const config = {
     locales: ['en'],
   },
   
-  plugins: [require.resolve('docusaurus-lunr-search')],
 
+  plugins: [
+    require.resolve('docusaurus-lunr-search'),
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'second-blog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'nsfw',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './my-second-blog', // Adjust the path as needed
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
