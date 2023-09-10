@@ -21,6 +21,7 @@ If on your fork it says that it is "behind by X commits" click the sync fork.
 Character sheets are found in the following folder: `docs/charList`
 Chapters are found in: `blog/yearX`
 
+NSFW Chapters are under `my-second-blog/yearX`
 
 
 # Adding files

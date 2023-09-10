@@ -57,3 +57,9 @@ In my writing, I've made the deliberate choice not to include explicit clop scen
 Additional Note:
 
 It's worth noting that this rule doesn't prevent the exploration of any other topics besides gore, grimdark, or extreme violence. Themes of a sexual or explicit nature are acceptable, as long as they are presented within the context of the narrative and contribute meaningfully to the story's development.
+
+# NSFW Submissions Titles:
+All pull requests must have the NSFW tag eg "[NSFW] - Chapter X - Char x Char" eg "[NSFW] - Chapter 1 - Tzar x Snek"
+The same naming conventions and tags remain
+
+Refrence: https://stonemcyt.github.io/susFic/docs/basicFicRules
