@@ -14,7 +14,7 @@ title: "Allystar | Pony-Otter Hybrid Male"
 
 **Parents** *: Unknow
 
-**Relationships** : Everyone
+
 ---
 
 **Special Trait:**
@@ -26,5 +26,7 @@ As the god of the oceans and water, his first power is to make it rain wherever 
 Personality-wise, he has a tendency to flirt with anyone, often wanting to get into the pants of everyone he talks to. Naturally outgoing and energetic, he possesses a constant good humor, which can be a little nauseating at times.
 
 
-**Appearance (Add an image URL of your ponytown OC/OC)**:* https://imgur.com/a/spEPcPj
+**Appearance (Add an image URL of your ponytown OC/OC)**:* 
+
+https://imgur.com/a/spEPcPj
 --- 
