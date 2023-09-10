@@ -28,7 +28,8 @@ Only snek is allowed to edit/update the timeline
 - @drswagfox and @bloodsurg born
 - Jack appears at this time point
 - Cadence X Shining
-
+### Year Minus 10:
+- Allystar born (SOmeone add parents)
 ### YEAR 0
 
 - Jack x Sunset = @Tzar
