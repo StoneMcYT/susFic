@@ -55,13 +55,24 @@ Or use this format if the image belongs to you
 # NSFW Inserts?
 If it is really important to the storry you may add inserts to a middle of the storry to refrence something frmo the NSFW Section. It should have a smooth transition
 Eg
-I opened the door
+```
+# Quick Example:
 
-*Insert: Year 10 Chapter 2 - The time in the bedroom with Vogia*
+## Year 10 Chapter 20 - Waking up next to luna (SFW)
+it was early morning and woke up and looked to my right to see the beautiful mare beside me. 
 
-Then i excited the room like a happy stallion.
+*Insertion: Night with luna*
 
-Inserts would be biascally checking another section for that extra chapter. Inserts should not force you to read a new section and should flow.
+Then i got up out of bed and decided to makebreakfast with pancakes
+
+
+
+
+## Night with luna (NSFW Hidden Page)
+
+Savouring the moment where last night we *insert scene here*
+```
+
 
 # Want to write for another year/timespam?​
 ![Image](https://cdn.discordapp.com/attachments/1086048264295555116/1148442132810580058/image.png "Title")
