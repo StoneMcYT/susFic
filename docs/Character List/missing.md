@@ -1,5 +1,5 @@
 ---
-title: "Characters which are missing sheets
+title: "Characters which are missing sheets"
 ---
 
 # Noted Ones that are allowed:
