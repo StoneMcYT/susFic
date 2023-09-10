@@ -28,5 +28,8 @@ Personality-wise, he has a tendency to flirt with anyone, often wanting to get i
 
 **Appearance (Add an image URL of your ponytown OC/OC)**:* 
 
-https://imgur.com/a/spEPcPj
+
+![Allystar](https://i.imgur.com/oPtYksQ.png)
+
+
 --- 
