@@ -28,7 +28,8 @@ Only snek is allowed to edit/update the timeline
 - @drswagfox and @bloodsurg born
 - Jack appears at this time point
 - Cadence X Shining
-
+### Year Minus 10:
+- Allystar born (SOmeone add parents)
 ### YEAR 0
 
 - Jack x Sunset = @Tzar
@@ -81,6 +82,7 @@ Only snek is allowed to edit/update the timeline
 - Drywall x Twi get married, and Hazy Skies becomes part of the family (Note: Hazy skies is Drywall x Unknown's child in year 27)
 - And have @Pedrito (Drywall x Twi)
 - Nonhappy x @anoax (?) - "It's compicated" - Non-happy
+- Tacos Borned (Someone add parents)
 
 ### Year 32
 
