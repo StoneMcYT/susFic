@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[8151],{8122:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"year0/blank","permalink":"/susFic/nsfw/year0/blank"},{"title":"Why Just Why\\"","permalink":"/susFic/nsfw/welcome"}]}')}}]);
