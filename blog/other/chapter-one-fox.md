@@ -5,6 +5,10 @@ tags: [sfw, ee, fox, unrelatedFromMainlore]
 date: 2023-09-11
 ---
 
+:::info
+
+WIP CHAPTER
+:::
 
 Dr. Swag Fox stared at the voluptuous pumpkins, for years he had been tormented by an undying curse that would melt each one in his very hands with a mere touch. But this time was different. Freed from his anguish after accepting EE into the neutral blep server, he was finally free. At the front of the grocery store laid a carton what once scourged his very soul. Hesitating to grasp the top one, he asked himself if he was truly free.
 
