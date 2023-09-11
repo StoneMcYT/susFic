@@ -68,7 +68,7 @@ Only snek is allowed to edit/update the timeline
 - Jack becomes unicorn again
 - Twi gets thrown to Spain in a ditch
 - Drywall meets her, cares for her, etc., romantic
-- Drywall x Twi get married, and Hazy Skies becomes part of the family (Note: Hazy skies is Drywall x Unknown's child in year 27)
+- Drywall x Twi get married (4th February Year 31), and Hazy Skies becomes part of the family (Note: Hazy skies is Drywall x Unknown's child in year 27)
 - And have @Pedrito (Drywall x Twi)
 - Nonhappy x @anoax (?) - "It's compicated" - Non-happy
 - Tacos Borned (Someone add parents)
@@ -85,7 +85,7 @@ Only snek is allowed to edit/update the timeline
 - Mineral Martyr and lokloy dating
 - February Year 44 - Jesse nd Luna start dating
 - ~~Vogia and Jacko breakup (Sept)~~
-  
+- Vogia and Merlin married (10th April
 
 ### Year 45
 - Mineral Martyr x Lokloy married
