@@ -95,9 +95,9 @@ Only snek is allowed to edit/update the timeline
 - Vogia revived??
 - Pedrito has a royal guard led by Penelope  (Snek just vibes along)
 - THE EQUASTRIAN LAND HOLDING COMMITTEE HAS DECIDED TO INCREASE THE PRICES TOWARDS @prince_jacko's goverment officials/workers (Oct 10th)
-- Snek buys yanekee's farm house to build a large barn
+- Snek buys yanekee's farmhouse to build a large barn
 - EE adopted by surge and fox (November 10th)
-- EE starts flirting with melrin the scietist
+- EE starts flirting with Merlin  the scientist
 
 - Winter meetup with all lore characters in lore at Snek's house
 
