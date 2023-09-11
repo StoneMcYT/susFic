@@ -8,6 +8,7 @@ authors:
 tags: [yearX, Jese, Luna, NSFW, Pov, USA]
 date: 2023-09-11
 ---
+
 ## An amazing morning with a Royal Princess
 The issue is, whenever I get deeply intimate with someone, I get, turned on.. even if I just say something really sweet, I end up getting hard. I’ve always been this way, I’m not sure why it happens but it does. Since she woke up I’ve been a little erect, but after this, I’m rock hard. I’m so hard in fact it hurts. After what she just said, I’m all messed up. My emotions are turned up to the max and my throbbing erection only confirms that. Luna doesn’t know this happens to me yet, but I have a feeling she’s going to find out soon.. 
 
