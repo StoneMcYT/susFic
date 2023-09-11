@@ -25,7 +25,7 @@ Only snek is allowed to edit/update the timeline
 
 ## Year 13 
 
-- Penelope appearence
+- Penelope appearance
 
 ## Year 15.
 - Mineral Martyr spawns
@@ -46,7 +46,7 @@ Only snek is allowed to edit/update the timeline
 
 ### TDS (The Discord Situation) - YEAR 26
 
-- Twi kidnapped by Discord (for 5 years and put in some frozen state)
+- Twi was kidnapped by Discord (for 5 years and put in some frozen state)
 - Snek x Tzar marriage
 - Vogia Entered the world (unknown parents)
 - Calliope_tealjoy X ??? = lokloy
@@ -93,13 +93,14 @@ Only snek is allowed to edit/update the timeline
 - Jesse X Luna married (July the 5th year 45)
 - Enderson1320 adopted (Tzar X Snek)
 - Vogia revived??
-- Pedrito has a royal guard led by Penelope  (Snek just vibes along)
+- Pedrito becomes a prince officially (August 28th)
+-  guard led by Penelope  (Snek just vibes along)
 - THE EQUASTRIAN LAND HOLDING COMMITTEE HAS DECIDED TO INCREASE THE PRICES TOWARDS @prince_jacko's goverment officials/workers (Oct 10th)
-- Snek buys yanekee's farmhouse to build a large barn
+- Snek buys yanekee's farmhouse to build a large barn (1st November)
 - EE adopted by surge and fox (November 27th)
 - EE starts flirting with Merlin  the scientist
 
-- Winter meetup with all lore characters in lore at Snek's house
+- Winter meet up with all lore characters in lore at Snek's house
 
 
 
