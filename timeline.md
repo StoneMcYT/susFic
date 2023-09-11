@@ -194,6 +194,10 @@ Only snek is allowed to edit/update the timeline
 - Vogia revived??
 - Pedrito has a royal guard led by Penelope  (Snek just vibes along)
 - THE EQUASTRIAN LAND HOLDING COMMITTEE HAS DECIDED TO INCREASE THE PRICES TOWARDS KIRIN'S HOLDING @prince_jacko  KIRIN PASSPORTS (Oct 10th)
+- EE adopted by surge and fox (November 10th)
+
+
+
 
 # Current year: Year 45
 
