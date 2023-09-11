@@ -90,7 +90,7 @@ Only snek is allowed to edit/update the timeline
 ### Year 45
 - Mineral Martyr x Lokloy married
 - Vogialoy x Penelope  married
-- Jesse X Luna married
+- Jesse X Luna married (July the 5th year 45)
 - Enderson1320 adopted (Tzar X Snek)
 - Vogia revived??
 - Pedrito has a royal guard led by Penelope  (Snek just vibes along)
