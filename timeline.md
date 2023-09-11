@@ -94,7 +94,7 @@ Only snek is allowed to edit/update the timeline
 - Enderson1320 adopted (Tzar X Snek)
 - Vogia revived??
 - Pedrito has a royal guard led by Penelope  (Snek just vibes along)
-- THE EQUASTRIAN LAND HOLDING COMMITTEE HAS DECIDED TO INCREASE THE PRICES TOWARDS KIRIN'S HOLDING @prince_jacko  KIRIN PASSPORTS (Oct 10th)
+- THE EQUASTRIAN LAND HOLDING COMMITTEE HAS DECIDED TO INCREASE THE PRICES TOWARDS @prince_jacko's goverment officials/workers (Oct 10th)
 - Snek buys yanekee's farm house to build a large barn
 - EE adopted by surge and fox (November 10th)
 - EE starts flirting with melrin the scietist
