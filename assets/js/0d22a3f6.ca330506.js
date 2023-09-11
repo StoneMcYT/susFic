@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[9167],{7706:s=>{s.exports=JSON.parse('{"permalink":"/susFic/blog/tags/fox","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
