@@ -1,3 +1,4 @@
+---
 slug: chapter-one-fox
 title: "Chapter one: Fox's Pumkins"
 tags: [sfw, ee, fox, unrelatedFromMainlore]
