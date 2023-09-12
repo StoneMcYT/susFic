@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[3350],{2070:s=>{s.exports=JSON.parse('{"permalink":"/susFic/blog/tags/unrelated-from-mainlore","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
