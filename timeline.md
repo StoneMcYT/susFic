@@ -21,7 +21,10 @@ Only snek is allowed to edit/update the timeline
 
 ### YEAR 0
 
-- Jack x Sunset = @Tzar
+- Jack x Sunset = @Tzar (1st April)
+- Tzar poofed (1week after)
+- Tzar adopted by Yankee Doodle and @bloodsurg (bout +// 2 days)
+
 
 ## Year 13 
 
@@ -42,7 +45,6 @@ Only snek is allowed to edit/update the timeline
 ### YEAR 25
 
 - Snek x Twi have @EE
-- Tzar adopted by Yankee Doodle and @bloodsurg
 
 ### TDS (The Discord Situation) - YEAR 26
 
