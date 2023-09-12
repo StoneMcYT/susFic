@@ -42,7 +42,7 @@ Only snek is allowed to edit/update the timeline
 ### YEAR 25
 
 - Snek x Twi have @EE
-- Tzar adopted by drswagfox and @bloodsurg
+- Tzar adopted by Yankee Doodle and @bloodsurg
 
 ### TDS (The Discord Situation) - YEAR 26
 
