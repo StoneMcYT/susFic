@@ -55,3 +55,26 @@ Country heads are non alicorns but are considered royalty. Whilst, the head head
 
 The current line of sucession for the head head is Luna/Celestia --> Twilight --> Pedrito.
 
+
+## Money:
+
+Currency is simlar to USD instead of currencies such as the Korean Won and vietnam dong. 
+
+For scale (Approx):
+
+An ice cream cone is $5
+Rent is bout $300 a month for apartments (1 roomm, 1 main room mone kitch with running water)
+Larger houses are in the millions
+
+Net Worth (As of adding):
+Royal Family $500 Bil
+Dynascord %350 bil
+Snek $250 Bil
+
+
+## Technology:
+
+The technology is a merge of S5 and modern day world.
+Some things from our world carry over such as phones and computers but not missiles and guns for some reason. 
+Furthermore, planes and rockets dont exist and contiental travel is dona via boats instead
+
