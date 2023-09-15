@@ -1,5 +1,5 @@
 ---
-title: "Dynoscord | Bat Pony"
+title: "Dynoscord | Bat Pony, Male"
 ---
 
 **Discord Nickname:** *:dynoscord
