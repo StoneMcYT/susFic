@@ -78,7 +78,7 @@ Only snek is allowed to edit/update the timeline
 ### Year 32
 
 - Flurry Heart born (Cadance x Shining)
-
+- MechaSalis entered the world - constructed in changling lands
 
 ### Year 43
 - ~~Vogia and Jacko start dating (Jan)~~
