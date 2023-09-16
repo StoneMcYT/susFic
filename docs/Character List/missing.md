@@ -19,3 +19,6 @@ title: "Characters which are missing sheets"
 
 # Missing Ones
 - Snowstorm (Year -1700): Takes power as leader.
+- Yankee
+- Fox lore (like 3 OCs)
+
