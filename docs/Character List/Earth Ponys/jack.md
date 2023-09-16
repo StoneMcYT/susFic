@@ -1,5 +1,5 @@
 ---
-title: “Jack Reel | Earth Pony Male"
+title: Jack Reel | Earth Pony Male
 ---
 
 **Discord Nickname:** *:Drywall eater
