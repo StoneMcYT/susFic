@@ -1,7 +1,9 @@
-# The Timeline
+# Positive Timeline
 The timeline should be as follows:
 
 For writing your chapters, they should usually be one-shots in the same universe. You should not skip around. E.g., don't have Pedrito born, then the parents have intercourse. Do not skip forward in the sense of the timeline. And try to write in a sequence of events.
+
+Like CE / Common era
 
 ## Location/Setting of the ENTIRE fic
 
