@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[1348],{983:s=>{s.exports=JSON.parse('{"label":"yearX","permalink":"/susFic/nsfw/tags/year-x","allTagsPath":"/susFic/nsfw/tags","count":1}')}}]);

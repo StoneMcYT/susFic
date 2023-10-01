@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksus_fic=self.webpackChunksus_fic||[]).push([[4039],{4542:s=>{s.exports=JSON.parse('{"label":"Derpy","permalink":"/susFic/blog/tags/derpy","allTagsPath":"/susFic/blog/tags","count":1}')}}]);
